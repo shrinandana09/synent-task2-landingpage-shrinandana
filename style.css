@@ -83,3 +83,7 @@ footer {
 }.hero button {
   border-radius: 20px;
 }
+.hero button:hover {
+  background: #000;
+  transform: scale(1.05);
+}
